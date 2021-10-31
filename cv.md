@@ -15,4 +15,4 @@ comments: false
 
 |     |    |**Education**                                                               |
 |-----|----|----------------------------------------------------------------------------------|
-|2018 |2021| **Dimploma**, Diploma certificate of Mathmatics and Pysics,Farzanegan 1 High school ,Tehran,Iran |            
+|2018 |2021| **Dimploma**, Diploma certificate of Mathmatics and Physics,Farzanegan 1 High school ,Tehran,Iran |            
