@@ -11,6 +11,10 @@ comments: false
 
 |           | **Current**                    |
 |----|------|--------------------------------|
+|2022|Winter| **<a href="">Advanced Computer Programming</a>**         |
+|----|------|--------------------------------|
+|           | **Past**                    |
+|----|------|--------------------------------|
 |2021|Fall  | **<a href="">Computer Programming Fundamentals</a>**         |
 |----|------|--------------------------------|
 |2021|Fall  | **<a href="">Computer Lab</a>** |
