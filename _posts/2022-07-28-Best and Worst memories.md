@@ -11,4 +11,3 @@ title: Best and Worst memories of past semester
 
 ## C exam 
 ### I didnt perform very well at this exam and I didnt feel good during the exam so it was not very good memory. 
----
