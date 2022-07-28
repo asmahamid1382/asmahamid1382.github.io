@@ -13,7 +13,7 @@
 #theme                  : "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes@4.16.0"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "aqua" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US" 
@@ -115,7 +115,7 @@ author:
   twitter: 
   linkedin: linkedin.com/in/asma-hamid-383270224
   google_scholar: 
-  github: asmahamid1382
+  github: https://github.com/asmahamid1382
   instagram: asma.h.2003
   links:
     - label: "Email"
